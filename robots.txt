@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dearbornwaterheater.com/sitemap.xml
